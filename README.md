@@ -11,3 +11,5 @@ servidor.py.- Recibe las peticiones de múltiples clientes y las guarda en una a
 
 ```
 ![Logo of the project](https://github.com/sukuzhanay/Karatsuba/blob/master/UEM-Logo.png)
+
+En proceso de revisión
