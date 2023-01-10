@@ -57,4 +57,5 @@ class Servidor():
 					c.send(msg)
 			except: self.clientes.remove(c)
 
+# Revision finalizada
 arrancar = Servidor() 
